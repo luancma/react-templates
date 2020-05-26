@@ -1,0 +1,13 @@
+.form-content {
+  display: flex;
+  justify-content: center;
+}
+
+.form-message {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-message textarea {
+  padding: 8px;
+}

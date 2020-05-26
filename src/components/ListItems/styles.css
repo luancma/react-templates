@@ -1,0 +1,13 @@
+.item-wrapper {
+  display: flex;
+  align-items: center;
+
+  justify-content: space-between;
+
+  border: 1px solid black;
+  margin-bottom: 8px;
+  padding: 16px;
+}
+
+.item-wrapper-body {
+}
